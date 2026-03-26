@@ -1,0 +1,7 @@
+{
+  "name": "ArchAI - Smart Architecture & Interior Design",
+  "description": "AI-powered architecture platform for 3D modeling, budget planning, material optimization, and interior design suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
